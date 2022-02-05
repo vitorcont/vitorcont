@@ -5,7 +5,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorcont&show_icons=true&locale=en&theme=dracula" alt="vitorcont" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitorcont&show_icons=true&locale=en&theme=dracula" alt="vitorcont" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitorcont&show_icons=true&locale=en&theme=dracula&layout=compact" alt="vitorcont" /></p>
  
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
