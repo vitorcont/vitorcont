@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vítor</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
-- Currently Working at **MBLabs**
+- Currently Working at **MBLabs** using React and React Native 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorcont&show_icons=true&locale=en" alt="vitorcont" /></p>
 
